@@ -1,0 +1,6 @@
+python-telegram-bot>=22.0
+requests>=2.32.0
+beautifulsoup4>=4.12.3
+phonenumbers>=9.0.0
+yt-dlp>=2025.1.26
+truecallerpy>=1.0.7
